@@ -14,3 +14,14 @@ This is a Python-based Password Strength Checker with a dynamic and engaging use
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Password-Strength-Checker.git
+
+This program requires a list of common passwords to function effectively. You can use a pre-existing common_passwords.txt file or create your own.
+
+Option 1: Download a Common Passwords File
+Download a commonly used password list, such as rockyou.txt or another list of common passwords.
+Rename the file to common_passwords.txt.
+Place the common_passwords.txt file in the same directory as the password_strength_checker.py script.
+Option 2: Create Your Own Passwords File
+Create a text file named common_passwords.txt.
+Populate it with a list of common passwords, with each password on a new line.
+Place this file in the same directory as the password_strength_checker.py script.
